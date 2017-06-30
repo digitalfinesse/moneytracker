@@ -7,7 +7,7 @@
     tools:context="com.example.supermen.moneytracker.MainActivity">
 
     <TextView
-        android:text="Words Words"
+        android:text="Words Words Words"
         android:layout_alignParentRight="true"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
